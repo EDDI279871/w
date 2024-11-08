@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlace al Formulario de Google</title>
+</head>
+<body>
+    <p>Haz clic en el siguiente enlace para acceder al formulario:</p>
+    <a href="https://forms.gle/4aQJpEobsD7hKt3X6" target="_blank">Formulario de Google</a>
+</body>
+</html>
